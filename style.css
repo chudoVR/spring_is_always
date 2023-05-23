@@ -2073,3 +2073,9 @@ img {
         width: 230px;
     }
 }
+
+@media (min-width: 320px) {
+    .wedding__img {
+        width: 215px;
+    }
+}
