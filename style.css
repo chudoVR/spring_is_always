@@ -2074,7 +2074,7 @@ img {
     }
 }
 
-@media (min-width: 320px) {
+@media (max-width: 319px) {
     .wedding__img {
         width: 200px;
     }
