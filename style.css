@@ -336,7 +336,7 @@ img {
 }
 
 .service__object:hover .service__btn {
-    border-bottom: 1px solid #FFFFFF;
+   text-decoration: underline;
 }
 
 .wedding {
