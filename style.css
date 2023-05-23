@@ -1126,7 +1126,7 @@ img {
     }
 }
 
-@media (min-width: 1025px) and (max-width: 1294px) {
+@media (min-width: 1024px) and (max-width: 1294px) {
     .top {
         padding: 70px 35px;
     }
@@ -1280,7 +1280,7 @@ img {
     }
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1023px) {
     .top {
         padding: 50px 35px;
     }
