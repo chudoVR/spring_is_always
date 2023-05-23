@@ -1820,7 +1820,7 @@ img {
     }
 
     .service__object {
-        width: 100%;
+        width: 85%;
     }
 
     .num {
@@ -2058,24 +2058,18 @@ img {
 
 @media (max-width: 425px) {
     .wedding__img {
-        width: 332px;
+        width: 300px;
     }
 }
 
 @media (max-width: 375px) {
     .wedding__img {
-        width: 306px;
+        width: 260px;
     }
 }
 
 @media (max-width: 320px) {
     .wedding__img {
-        width: 230px;
-    }
-}
-
-@media (max-width: 319px) {
-    .wedding__img {
-        width: 200px;
+        width: 215px;
     }
 }
